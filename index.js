@@ -41,8 +41,7 @@ inquirer.prompt([
         name:'license',
         choices: [
             'MIT',
-            'PERL',
-            'WTFPL'
+            'ISC',
         ]
     },
     {

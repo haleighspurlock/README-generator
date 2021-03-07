@@ -10,11 +10,16 @@
 
 ## Description
 ---
-
+Created a command-line application utilizing prompts from node js package inquirer that will generate a stellar README document with the most commonly found items necessary. 
 
 Deployed Website: 
+![README-generator](/utils/terminalprompts.png)
 
-![README-generator](*****Include Screenshot here******)
+![README-generator](/utils/testREADME_code.png)
+
+![README-generator](/utils/testREADME_preview.png)
+
+Here is a link to a video showing you exactly how this application will run: https://drive.google.com/file/d/1CPjRpHh65slMlJF7vGLiXIDy6e-VBxvi/view
 
 ## Requirements 
 ---
@@ -38,11 +43,11 @@ THEN I am taken to the corresponding section of the README
 
 ## Installation
 ---
-To use this app, run node index.js in the command line and follow all prompts. This will generate a README.md file with information received during prompts.
+You will need to clone this repository and download node.js. To use this app, run node index.js in the command line and follow all prompts. This will generate a README.md file with information received during prompts.
 
-See deployed site here: https://haleighspurlock.github.io/
+See deployed site here: https://haleighspurlock.github.io/README-generator
 
-See repository here: https://github.com/haleighspurlock/
+See repository here: https://github.com/haleighspurlock/README-generator
 ## Contributing
 ---
 

@@ -1,4 +1,4 @@
-# my test README
+# test for final push
   
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
@@ -14,27 +14,27 @@
 
   ## Description
   ---
-  a test of my application
+  adding these items as my final "test" readme before push
 
   ## Installation
   ---
-  see in project readme
+  see actual readme
 
   ## Usage
   ---
-  see in project readme
+  see actual readme
 
   ## Contributing
   ---
-  me!
+  me! 
 
   ## Tests
   ---
-  under util folder in test file
+  you can utilize the test document in the utils folder
 
   ## License
   ---
-  Application falls under the WTFPL license.
+  Application falls under the WTFPL license. Please click on the badge located on the top of this README to be directed to license website for more information.
 
   ## Questions
   ---

@@ -1,4 +1,4 @@
-# cat app! 
+# my test README
   
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
@@ -14,23 +14,23 @@
 
   ## Description
   ---
-  all the cats! 
+  a test of my application
 
   ## Installation
   ---
-  install the cats
+  see in project readme
 
   ## Usage
   ---
-  use the cats!
+  see in project readme
 
   ## Contributing
   ---
-  THE CATS OF COURSE
+  me!
 
   ## Tests
   ---
-  utils folder, test file
+  under util folder in test file
 
   ## License
   ---
@@ -38,7 +38,7 @@
 
   ## Questions
   ---
-  Please reach out via email if you have any questions! haleighspurlock@catapp.com
+  Please reach out via email if you have any questions! haleighspurlock@test.com
   
   Here is the link to my [Github](https://github.com/haleighspurlock)
 

@@ -2,6 +2,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const createReadme = require('./utils/generateMarkdown');
+const licenses = require('./utils/constants')
 
 // TODO: Create an array of questions for user input
 inquirer.prompt([
@@ -39,11 +40,7 @@ inquirer.prompt([
         type:'list',
         message:'Please choose a license type:',
         name:'license',
-        choices: [
-            'MIT',
-            'ISC',
-            'WTFPL',
-        ]
+        choices: Object.keys(licenses).map((key)=>key)
     },
     {
         type: 'input',

@@ -1,8 +1,21 @@
+//TODO: Create a function that returns a license badge on which license is passed in
+function renderLicense(licenseType) {
+  if (licenseType === 'MIT') {
+    return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
+  };
+  if (licenseType === 'ISC') {
+    return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)'
+  };
+  if (licenseType === 'WTFPL') {
+    return '[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)'
+  };
+}
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
   
-  [![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg)](https://opensource.org/licenses/${data.license})
+  ${renderLicense(data.license)}
 
   ## Table of Contents
 

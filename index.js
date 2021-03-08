@@ -42,6 +42,7 @@ inquirer.prompt([
         choices: [
             'MIT',
             'ISC',
+            'WTFPL',
         ]
     },
     {
@@ -58,6 +59,6 @@ inquirer.prompt([
 // TODO: Create a function to write README file
 .then((data) => {
     fs.writeFile('./test/README.md', createReadme(data), (error) => {
-        if (error) return console.log(error);
+        if (error) console.log(error);
     })
 });

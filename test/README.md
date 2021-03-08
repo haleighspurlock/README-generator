@@ -1,6 +1,6 @@
-# test project
+# cat app! 
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
   ## Table of Contents
 
@@ -14,31 +14,31 @@
 
   ## Description
   ---
-  this is the screen recording for my test
+  all the cats! 
 
   ## Installation
   ---
-  follow instructions given in README
+  install the cats
 
   ## Usage
   ---
-  also included in README
+  use the cats!
 
   ## Contributing
   ---
-  just me myself and i 
+  THE CATS OF COURSE
 
   ## Tests
   ---
-  included in the test folder available with this 
+  utils folder, test file
 
   ## License
   ---
-  Application falls under the MIT license.
+  Application falls under the WTFPL license.
 
   ## Questions
   ---
-  Please reach out via email if you have any questions! haleighspurlock@gmail.com
+  Please reach out via email if you have any questions! haleighspurlock@catapp.com
   
   Here is the link to my [Github](https://github.com/haleighspurlock)
 
